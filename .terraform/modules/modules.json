@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"app_gateway","Source":"./modules/app_gateway","Dir":"modules/app_gateway"},{"Key":"backend_app_service","Source":"./modules/app_service","Dir":"modules/app_service"},{"Key":"frontend_app_service","Source":"./modules/app_service","Dir":"modules/app_service"},{"Key":"mysql","Source":"./modules/mysql","Dir":"modules/mysql"}]}
